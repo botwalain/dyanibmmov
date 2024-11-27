@@ -18,4 +18,3 @@ async def set_muc_id(client, message):
     except Exception as e:
         print('Err in set_muc_id', e)
         await message.reply("Failed to set movies channel id! Because : " + str(e))
-
