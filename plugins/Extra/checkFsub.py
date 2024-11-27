@@ -8,7 +8,6 @@ async def is_user_fsub(bot , message):
     user_id = message.from_user.id
     chat_id = message.chat.id
     fSub = await db.getFsub(chat_id)
-    fSub = fSub.id
     if fSub is None:
         return True
     #now checking if user in fsub chat id or not
@@ -39,4 +38,3 @@ async def is_user_fsub(bot , message):
             traceback.print_exc()
             print('Err Got in is_user_fsub : ',e)
             return True
-
