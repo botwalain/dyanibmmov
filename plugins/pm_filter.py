@@ -811,16 +811,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
   
     elif query.data == "start":
         buttons = [[
-                InlineKeyboardButton('☆ 𝗔𝗗𝗗 𝗠𝗘 𝗜𝗡 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ☆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
+                InlineKeyboardButton('☆ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ☆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                 ],[
-                InlineKeyboardButton("⚙️ 𝗛𝗘𝗟𝗣 ⚙️", callback_data='features'),
-                InlineKeyboardButton('ℹ️ 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡𝗦 ℹ️', callback_data=f'about')
+                InlineKeyboardButton("Hᴇʟᴘ ⚙️", callback_data='features'),
+                InlineKeyboardButton('Aʙᴏᴜᴛ 💌', callback_data=f'about')
                 ],[
-                InlineKeyboardButton('🎫 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝗠𝗘𝗡𝗨 🎫', callback_data='seeplans'),
-                InlineKeyboardButton('⚜️ 𝗥𝗘𝗙𝗙𝗘𝗥𝗔𝗟 ⚜️', callback_data="reffff")
+                InlineKeyboardButton('Pʀᴇᴍɪᴜᴍ 🎫', callback_data='seeplans'),
+                InlineKeyboardButton('Rᴇғᴇʀ ⚜️', callback_data="reffff")
                 ],[
-                InlineKeyboardButton('🔍 𝑴𝑶𝑺𝑻 𝑺𝑬𝑨𝑹𝑪𝑯𝑬𝑫 𝑺𝑻𝑼𝑭𝑭 🔍', callback_data="mostsearch"),
-                InlineKeyboardButton('⚡ 𝑪𝑼𝑹𝑹𝑬𝑵𝑻𝑳𝒀 𝑻𝑶𝑷 𝑻𝑹𝑬𝑵𝑫𝑰𝑵𝑮 ⚡', callback_data="trending")
+                InlineKeyboardButton('Mᴏsᴛ Sᴇᴀʀᴄʜ 🔍', callback_data="mostsearch"),
+                InlineKeyboardButton('Tᴏᴘ Tʀᴇɴᴅɪɴɢ ⚡', callback_data="trending")
                 ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
