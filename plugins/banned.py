@@ -28,7 +28,7 @@ async def ban_reply(bot, message):
     ban = await db.get_ban_status(message.from_user.id)
     username = message.from_user.username or 'No Username'
     # Send reply to the user
-    await message.reply(f'Telegram says: [400 PEER_ID_INVALID] - The peer id being used is invalid or not known yet. Make sure you meet the peer before interacting with it')
+    await message.reply(f'Sorry Dude, You are Banned to use Me. \nBan Reason : {ban["ban_reason"]} Contact @IBMBotSupport for unban, Thank You.')
     
     # Send message to the log channel
     await bot.send_message(
