@@ -339,7 +339,7 @@ User - {}"""
 Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ᴀɴᴅ ᴜsᴇ ᴀʟʟ ғᴇᴀᴛᴜʀᴇs😇</b>"""
 
     SOURCE_TXT = """<b>
-- 𝗖𝗢𝗣𝗬𝗥𝗜𝗚𝗛𝗧 𝟮𝟬𝟮𝟰 𝗔𝗟𝗟 𝗥𝗜𝗚𝗛𝗧𝗦 𝗥𝗘𝗦𝗘𝗥𝗩𝗘𝗥𝗗 𝗕𝗬 ◉› :<blockquote><a href="https://t.me/IBMBotSupport">𝗜𝗕𝗠 𝗕𝗢𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧</a></blockquote>
+- 𝗖𝗢𝗣𝗬𝗥𝗜𝗚𝗛𝗧 𝟮𝟬𝟮𝟰 𝗔𝗟𝗟 𝗥𝗜𝗚𝗛𝗧𝗦 𝗥𝗘𝗦𝗘𝗥𝗩𝗘𝗗 𝗕𝗬 ◉› :<blockquote><a href="https://t.me/IBMBotSupport">𝗜𝗕𝗠 𝗕𝗢𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧</a></blockquote>
 - 𝗢𝗪𝗡𝗘𝗗 𝗕𝗬 ◉› : <blockquote><a href="https://t.me/simpshh">𝗗𝗘𝗠𝗢𝗡 𝗟𝗢𝗥𝗗</a></blockquote>
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
