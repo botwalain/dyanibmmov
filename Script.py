@@ -39,7 +39,7 @@ class script(object):
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/IBMBotSupport'>IBM BOTS</a></b></blockquote>"""
     
 
-    ABOUT_TEXT = """<blockquote><b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
+    ABOUT_TEXT = """<blockquote><b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ10.7 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
     
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -340,9 +340,8 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ◉› :<blockquote><a href="https://t.me/IBMBotSupport">𝗜𝗕𝗠 𝗕𝗢𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧𝘁</a></blockquote>
-
-developer : ƊƸ𐒄ΘƝ☩ȴΘⱤƊ
+- 𝗖𝗢𝗣𝗬𝗚𝗛𝗧 𝟮𝟬𝟮𝟰 𝗔𝗟𝗟 𝗥𝗜𝗚𝗛𝗧𝗦 𝗥𝗘𝗦𝗘𝗥𝗩𝗘𝗥𝗗 𝗕𝗬 ◉› :<blockquote><a href="https://t.me/IBMBotSupport">𝗜𝗕𝗠 𝗕𝗢𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧</a></blockquote>
+- 𝗢𝗪𝗡𝗘𝗗 𝗕𝗬 ◉› : <blockquote><a href="https://t.me/simpshh">𝗗𝗘𝗠𝗢𝗡 𝗟𝗢𝗥𝗗</a></blockquote>
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
