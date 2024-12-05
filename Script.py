@@ -118,7 +118,7 @@ User - {}"""
     FILE_CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/IBMBotSupport">𝗜𝗕𝗠 𝗕𝗢𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧</a>」</b>"""
     
 
-    ALRT_TXT = """Hey!"""
+    ALRT_TXT = """This is not your movie/series request, request yours"""
 
     OLD_ALRT_TXT = """ʏᴏᴜ ᴀʀᴇ ᴜsɪɴɢ ᴍʏ ᴏʟᴅ ᴍᴇssᴀɢᴇs..sᴇɴᴅ ᴀ ɴᴇᴡ ʀᴇǫᴜᴇsᴛ.."""
 
